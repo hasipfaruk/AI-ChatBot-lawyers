@@ -1,0 +1,8 @@
+langchain
+qdrant-client
+gradio
+langchain-groq
+langchain-huggingface
+langchain_community
+numpy==1.21.0
+langchain-qdrant
